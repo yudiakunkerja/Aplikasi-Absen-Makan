@@ -1,0 +1,233 @@
+{
+  "workers": [
+    {
+      "id": "W01",
+      "name": "Bpk Faisal Zainuddin",
+      "role": "Karyawan",
+      "isActive": true,
+      "phoneNumber": ""
+    },
+    {
+      "id": "W02",
+      "name": "Ibu Sri Ekowati",
+      "role": "Karyawan",
+      "isActive": true,
+      "phoneNumber": ""
+    },
+    {
+      "id": "W03",
+      "name": "Deasy",
+      "role": "Karyawan",
+      "isActive": true,
+      "phoneNumber": ""
+    },
+    {
+      "id": "W04",
+      "name": "Andi Dhiya Salsabila",
+      "role": "Karyawan",
+      "isActive": true,
+      "phoneNumber": ""
+    },
+    {
+      "id": "W05",
+      "name": "Addrian Firmansyah Zain",
+      "role": "Karyawan",
+      "isActive": true,
+      "phoneNumber": ""
+    },
+    {
+      "id": "W06",
+      "name": "Nur Wahyudi",
+      "role": "Karyawan",
+      "isActive": true,
+      "phoneNumber": ""
+    },
+    {
+      "id": "W07",
+      "name": "Faranabila Zeolita Athalia",
+      "role": "Karyawan",
+      "isActive": true,
+      "phoneNumber": ""
+    },
+    {
+      "id": "W08",
+      "name": "Andi Respati Syarif",
+      "role": "Karyawan",
+      "isActive": true,
+      "phoneNumber": ""
+    }
+  ],
+  "attendanceRecords": [
+    {
+      "workerId": "W01",
+      "attendance": {
+        "2026-06-29": false,
+        "2026-06-30": false,
+        "2026-07-01": false,
+        "2026-07-02": false,
+        "2026-07-03": false
+      },
+      "dailyAllowance": 25000
+    },
+    {
+      "workerId": "W02",
+      "attendance": {
+        "2026-06-29": false,
+        "2026-06-30": false,
+        "2026-07-01": false,
+        "2026-07-02": false,
+        "2026-07-03": false
+      },
+      "dailyAllowance": 25000
+    },
+    {
+      "workerId": "W03",
+      "attendance": {
+        "2026-06-29": false,
+        "2026-06-30": false,
+        "2026-07-01": false,
+        "2026-07-02": false,
+        "2026-07-03": false
+      },
+      "dailyAllowance": 25000
+    },
+    {
+      "workerId": "W04",
+      "attendance": {
+        "2026-06-29": false,
+        "2026-06-30": false,
+        "2026-07-01": false,
+        "2026-07-02": false,
+        "2026-07-03": false
+      },
+      "dailyAllowance": 25000
+    },
+    {
+      "workerId": "W05",
+      "attendance": {
+        "2026-06-29": false,
+        "2026-06-30": false,
+        "2026-07-01": false,
+        "2026-07-02": false,
+        "2026-07-03": false
+      },
+      "dailyAllowance": 25000
+    },
+    {
+      "workerId": "W06",
+      "attendance": {
+        "2026-06-29": false,
+        "2026-06-30": false,
+        "2026-07-01": false,
+        "2026-07-02": false,
+        "2026-07-03": false
+      },
+      "dailyAllowance": 25000
+    },
+    {
+      "workerId": "W01",
+      "attendance": {
+        "2026-07-06": false,
+        "2026-07-07": false,
+        "2026-07-08": false,
+        "2026-07-09": false,
+        "2026-07-10": false
+      },
+      "dailyAllowance": 25000
+    },
+    {
+      "workerId": "W02",
+      "attendance": {
+        "2026-07-06": false,
+        "2026-07-07": false,
+        "2026-07-08": false,
+        "2026-07-09": false,
+        "2026-07-10": false
+      },
+      "dailyAllowance": 25000
+    },
+    {
+      "workerId": "W03",
+      "attendance": {
+        "2026-07-06": false,
+        "2026-07-07": false,
+        "2026-07-08": false,
+        "2026-07-09": false,
+        "2026-07-10": false
+      },
+      "dailyAllowance": 25000
+    },
+    {
+      "workerId": "W04",
+      "attendance": {
+        "2026-07-06": false,
+        "2026-07-07": false,
+        "2026-07-08": false,
+        "2026-07-09": false,
+        "2026-07-10": false
+      },
+      "dailyAllowance": 25000
+    },
+    {
+      "workerId": "W05",
+      "attendance": {
+        "2026-07-06": false,
+        "2026-07-07": false,
+        "2026-07-08": false,
+        "2026-07-09": false,
+        "2026-07-10": false
+      },
+      "dailyAllowance": 25000
+    },
+    {
+      "workerId": "W06",
+      "attendance": {
+        "2026-07-06": false,
+        "2026-07-07": false,
+        "2026-07-08": false,
+        "2026-07-09": false,
+        "2026-07-10": false
+      },
+      "dailyAllowance": 25000
+    },
+    {
+      "workerId": "W07",
+      "attendance": {
+        "2026-07-06": false,
+        "2026-07-07": false,
+        "2026-07-08": false,
+        "2026-07-09": false,
+        "2026-07-10": false
+      },
+      "dailyAllowance": 25000
+    },
+    {
+      "workerId": "W08",
+      "attendance": {
+        "2026-07-06": false,
+        "2026-07-07": false,
+        "2026-07-08": false,
+        "2026-07-09": false,
+        "2026-07-10": false
+      },
+      "dailyAllowance": 25000
+    }
+  ],
+  "weeklyReports": [],
+  "pettyCashReports": [],
+  "attendancePin": "4778",
+  "signatures": {},
+  "pettyCashHolders": [
+    "Suryo Pranoto"
+  ],
+  "attendanceLogs": [],
+  "waMethod": "desktop",
+  "autoReminderHour": "09:00",
+  "lastCronPing": "",
+  "lastCronStatus": "Gagal mengirim pengingat otomatis (Sistem Internal): WhatsApp Bot belum terhubung.",
+  "lastCronSentDate": "",
+  "adminUsername": "admin",
+  "adminPassword": "admin123",
+  "adminToken": "c82bbb9c-0fdf-4204-a16a-154bd888762d",
+  "lastPinDate": "2026-07-07"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Absen Uang Makan \u0026 Petty Cash ( ASLI )",
+  "description": "Pencatatan absen uang makan harian mingguan pekerja serta pembaca \u0026 konverter otomatis laporan pdf petty cash pekerja lapangan menjadi file Microsoft Excel terstruktur yang tersimpan rapi dalam Google Drive.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

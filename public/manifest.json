@@ -1,0 +1,28 @@
+{
+  "name": "Absensi Harian dan uang makan",
+  "short_name": "Absen & Uang Makan",
+  "description": "Pencatatan absen uang makan harian mingguan pekerja serta pembaca & konverter otomatis laporan pdf petty cash pekerja lapangan.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://i.ibb.co.com/FqDNnD8W/Logo-Nusantara-Mineral-Abadi.webp",
+      "sizes": "192x192 256x256 384x384 512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co.com/FqDNnD8W/Logo-Nusantara-Mineral-Abadi.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "https://i.ibb.co.com/FqDNnD8W/Logo-Nusantara-Mineral-Abadi.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}
